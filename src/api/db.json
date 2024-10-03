@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "role": "Admin",
+      "enabled": true
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "role": "User",
+      "enabled": false
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "role": "User",
+      "enabled": true
+    },
+    {
+      "id": "cf51",
+      "name": "pact-verify",
+      "email": "sonu.kumar.contractor@macmillan.com",
+      "role": "User",
+      "enabled": true
+    },
+    {
+      "id": "47ee",
+      "name": "pact-verify",
+      "email": "sonu.kumar.contractor@macmillan.com",
+      "role": "User",
+      "enabled": true
+    },
+    {
+      "id": "bc77",
+      "name": "pact-verify",
+      "email": "sonu.kumar.contractor@macmillan.com",
+      "role": "User",
+      "enabled": true
+    },
+    {
+      "id": "ab3c",
+      "name": "pact-verify",
+      "email": "sonu.kumar.contractor@macmillan.com",
+      "role": "User",
+      "enabled": true
+    },
+    {
+      "id": "1515",
+      "name": "pact-verify",
+      "email": "sonu.kumar.contractor@macmillan.com",
+      "role": "User",
+      "enabled": true
+    },
+    {
+      "id": "8fd0",
+      "name": "pact-verify",
+      "email": "sonu.kumar.contractor@macmillan.com",
+      "role": "User",
+      "enabled": true
+    },
+    {
+      "id": "4229",
+      "name": "pact-verify",
+      "email": "sonu.kumar.contractor@macmillan.com",
+      "role": "User",
+      "enabled": true
+    },
+    {
+      "id": "eb88",
+      "name": "pact-verify",
+      "email": "sonu.kumar.contractor@macmillan.com",
+      "role": "User",
+      "enabled": true
+    },
+    {
+      "id": "f2c9",
+      "name": "pact-verify",
+      "email": "sonu.kumar.contractor@macmillan.com",
+      "role": "User",
+      "enabled": true
+    },
+    {
+      "id": "c44f",
+      "name": "pact-verify",
+      "email": "sonu.kumar.contractor@macmillan.com",
+      "role": "User",
+      "enabled": true
+    },
+    {
+      "id": "5592",
+      "name": "pact-publish",
+      "email": "me.sonu300@gmail.com",
+      "role": "User",
+      "enabled": true
+    }
+  ]
+}
